@@ -8,7 +8,7 @@ gem 'figaro', '>= 1.0.0'
 
 gem 'geocoder'
 
-gem 'devise', '>= 3.2.4'
+gem 'devise', '>= 3.5.1'
 
 gem 'simple_form'
 
