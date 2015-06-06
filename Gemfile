@@ -4,7 +4,9 @@ gem 'aws-sdk'
 
 gem 'carrierwave'
 
-gem 'figaro', '>= 1.0.0'
+gem "fog", "~> 1.3.1"
+
+gem 'figaro' 
 
 gem 'geocoder'
 
