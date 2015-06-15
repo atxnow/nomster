@@ -20,3 +20,4 @@ RATINGS = {
   end
 
 end
+

@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'factory_girl_rails', '~> 4.0'
+
 gem 'rails_12factor', group: :production 
 
 gem 'aws-sdk' 
